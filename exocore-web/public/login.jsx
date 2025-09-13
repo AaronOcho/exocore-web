@@ -122,7 +122,7 @@ function App() {
                     .links-separator { margin: 0 0.5rem; }
                 `}</style>
                 <div class="login-card">
-                    <h1 class="login-header">Exocore Login</h1>
+                    <h1 class="login-header">OchoX Login</h1>
                     <div class="form-group">
                         <label class="form-label" for="username">Username or Email</label>
                         <input id="username" class="form-input" type="text" value={form().user} onInput={(e) => setForm(f => ({ ...f, user: e.currentTarget.value.replace(/\s/g, '') }))} onKeyPress={handleKeyPress} />
