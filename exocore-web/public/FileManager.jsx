@@ -1154,7 +1154,7 @@ function App() {
     <div style={{ 'font-size': '1.1rem', background: theme.bg, color: theme.text, 'min-height': '100vh', padding: '25px', 'box-sizing': 'border-box' }}>
       <NotificationContainer />
       <h2 style={{ color: theme.primary, 'font-size': '2.8rem', 'margin-bottom': '25px', 'text-align': 'center', 'letter-spacing': '1px' }}>
-        📁 ExoCore Explorer 📂
+        📁 OchoX Explorer 📂
       </h2>
 
       <Show when={status()}>
