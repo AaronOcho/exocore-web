@@ -213,7 +213,7 @@ function App() {
                     </Show>
                 </Show>
 <a href="https://www.facebook.com/share/15k6A3oWbR/" target="_blank" rel="noopener noreferrer" class="follow-link">
-                                    Follow Exocore on Facebook
+                                    Follow OchoX on Facebook
                                 </a>
             </div>
         </div>
