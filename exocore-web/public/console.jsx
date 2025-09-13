@@ -266,7 +266,7 @@ function App() {
                 <Show when={userData()} fallback={<div>Redirecting to login...</div>}>
                     <div class="app-container">
                         <div class="greeting-header">
-                            <h2 class="greeting">Exocore Console</h2>
+                            <h2 class="greeting">OchoX Console</h2>
                             <span class="user-welcome">Welcome, {userData()?.user || 'User'}</span>
                         </div>
                         <div class="console-wrapper">
